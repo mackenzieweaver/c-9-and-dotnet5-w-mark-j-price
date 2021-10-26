@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\nullhandling.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\nullhandling.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\nullhandling.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\nullhandling.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\nullhandling.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\ref\nullhandling.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\bin\Debug\net5.0\nullhandling.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\ref\nullhandling.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\nullhandling\obj\Debug\net5.0\nullhandling.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\arguments.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\arguments.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\arguments.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\arguments.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\arguments.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\ref\arguments.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\bin\Debug\net5.0\arguments.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\ref\arguments.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\arguments\obj\Debug\net5.0\arguments.genruntimeconfig.cache

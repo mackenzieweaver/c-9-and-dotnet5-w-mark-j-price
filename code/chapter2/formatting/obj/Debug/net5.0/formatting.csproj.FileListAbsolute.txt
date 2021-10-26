@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\formatting.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\formatting.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\formatting.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\formatting.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\formatting.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\ref\formatting.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\bin\Debug\net5.0\formatting.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\ref\formatting.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter2\formatting\obj\Debug\net5.0\formatting.genruntimeconfig.cache
