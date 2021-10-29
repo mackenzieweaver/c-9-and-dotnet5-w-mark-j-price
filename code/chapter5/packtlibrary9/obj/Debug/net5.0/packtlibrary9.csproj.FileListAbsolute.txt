@@ -1,0 +1,15 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\bin\Debug\net5.0\packtlibrary9.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\bin\Debug\net5.0\packtlibrary9.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\bin\Debug\net5.0\ref\packtlibrary9.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\bin\Debug\net5.0\packtlibrary9.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\bin\Debug\net5.0\packtlibrary.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\bin\Debug\net5.0\packtlibrary.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.csproj.CopyComplete
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\ref\packtlibrary9.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter5\packtlibrary9\obj\Debug\net5.0\packtlibrary9.pdb
