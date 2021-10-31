@@ -1,0 +1,12 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\bin\Debug\net5.0\packtlibrary.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\bin\Debug\net5.0\packtlibrary.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\bin\Debug\net5.0\ref\packtlibrary.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\bin\Debug\net5.0\packtlibrary.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\ref\packtlibrary.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter6\PacktLibrary\obj\Debug\net5.0\packtlibrary.pdb
