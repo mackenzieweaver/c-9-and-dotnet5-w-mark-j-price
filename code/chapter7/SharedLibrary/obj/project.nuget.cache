@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0+u7o8asMIz/gY9+GyC7gvR2qTrwV6i92VWe+E/r8HgPkAMGHeimFrU7NMNyEWCDS4lYShMwLdD64uSISZLWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\chapter7\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mackn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

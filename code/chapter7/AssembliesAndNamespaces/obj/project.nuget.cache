@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaYkFZSFHamEP5PiPebQv3ukCFEgYqeUe6s04cEWKMhpgM0pokyEMUXD6UT6L1Pm569KsKASpyMz81DbXdsjPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\chapter7\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mackn\\.nuget\\packages\\packt.mw.csdotnet.sharedlibrary\\5.0.0\\packt.mw.csdotnet.sharedlibrary.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
