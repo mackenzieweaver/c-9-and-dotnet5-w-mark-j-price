@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.genruntimeconfig.cache

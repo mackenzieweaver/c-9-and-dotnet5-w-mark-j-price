@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mnZiDXe9uY0qOIskavs96/GGc/2QUD85NJPrIZnmps4QllRmbEMUR6ZLtvfxwy8OPZIfPQ/5MVezVlfKI3rwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\chapter8\\WorkingWithImages\\WorkingWithImages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackn\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\Internationalization.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\Internationalization.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\Internationalization.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\ref\Internationalization.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\bin\Debug\net5.0\Internationalization.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\ref\Internationalization.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\Internationalization\obj\Debug\net5.0\Internationalization.genruntimeconfig.cache

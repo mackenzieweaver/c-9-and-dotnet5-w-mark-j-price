@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\ref\WorkingWithText.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\ref\WorkingWithText.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.genruntimeconfig.cache
