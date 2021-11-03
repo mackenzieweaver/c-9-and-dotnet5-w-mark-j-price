@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CfgekqkqoHjMGFHWWARzPjD2UI8KQp0+Li+nb4TvTyJQ5iNjIIQ7rn1Cq/SegSfTCJDk7jW7E9Ou1zM6g1qpNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\chapter9\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

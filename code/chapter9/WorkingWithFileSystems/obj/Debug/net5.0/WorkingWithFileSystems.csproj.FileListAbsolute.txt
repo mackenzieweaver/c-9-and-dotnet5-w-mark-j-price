@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\ref\WorkingWithFileSystems.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\ref\WorkingWithFileSystems.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter9\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.genruntimeconfig.cache
