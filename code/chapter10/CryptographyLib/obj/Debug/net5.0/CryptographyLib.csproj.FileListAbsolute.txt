@@ -1,0 +1,12 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\bin\Debug\net5.0\CryptographyLib.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\bin\Debug\net5.0\CryptographyLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\bin\Debug\net5.0\ref\CryptographyLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\bin\Debug\net5.0\CryptographyLib.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\ref\CryptographyLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter10\cryptographylib\obj\Debug\net5.0\CryptographyLib.pdb
