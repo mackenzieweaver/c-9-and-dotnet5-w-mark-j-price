@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\LinWithSets.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\LinWithSets.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\LinWithSets.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\LinWithSets.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\LinWithSets.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\ref\LinWithSets.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\bin\Debug\net5.0\LinWithSets.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\ref\LinWithSets.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter12\LinWithSets\obj\Debug\net5.0\LinWithSets.genruntimeconfig.cache
