@@ -1,0 +1,12 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\bin\Release\net5.0\MonitoringLib.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\bin\Release\net5.0\MonitoringLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\bin\Release\net5.0\ref\MonitoringLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\bin\Release\net5.0\MonitoringLib.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\ref\MonitoringLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\monitoringlib\obj\Release\net5.0\MonitoringLib.pdb

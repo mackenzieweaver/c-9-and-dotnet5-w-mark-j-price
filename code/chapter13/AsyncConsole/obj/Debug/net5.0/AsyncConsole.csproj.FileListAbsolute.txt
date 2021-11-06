@@ -1,0 +1,16 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.exe
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.dev.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\ref\AsyncConsole.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\ref\AsyncConsole.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.genruntimeconfig.cache
