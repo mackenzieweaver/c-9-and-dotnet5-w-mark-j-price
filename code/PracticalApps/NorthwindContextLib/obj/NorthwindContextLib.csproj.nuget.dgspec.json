@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {}
+    "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\northwindcontextlib\\NorthwindContextLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+    "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\northwindcontextlib\\NorthwindContextLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj",
+        "projectUniqueName": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\northwindcontextlib\\NorthwindContextLib.csproj",
         "projectName": "NorthwindContextLib",
-        "projectPath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj",
+        "projectPath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\northwindcontextlib\\NorthwindContextLib.csproj",
         "packagesPath": "C:\\Users\\mackn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\NorthwindContextLib\\obj\\",
+        "outputPath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\northwindcontextlib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

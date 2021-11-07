@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBMbqaRxIb7aE4el6PF8kwCoTj27xERJkEE3FsgAn4IHlCLVsZkWIcqMmxpTpSPwmxQzNMl2QY/A+8XHU1/pbA==",
+  "dgSpecHash": "B85jT7eBItxUV4QA4oIISLn1enZaBFl6DlvrL5/1JGH1jpyShJ1OBhvNs+olzUCR2DZZmTzyFsVVpf9mLx9u5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj",
+  "projectFilePath": "C:\\Users\\mackn\\Documents\\C#\\c#9-and-dotnet5-w-mark-j-price\\code\\PracticalApps\\northwindcontextlib\\NorthwindContextLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mackn\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.11\\microsoft.data.sqlite.core.5.0.11.nupkg.sha512",
     "C:\\Users\\mackn\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
