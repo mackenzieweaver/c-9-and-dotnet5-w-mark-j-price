@@ -1,0 +1,15 @@
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.deps.json
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\ref\NorthwindContextLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csprojAssemblyReference.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.AssemblyInfo.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.CopyComplete
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\ref\NorthwindContextLib.dll
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.pdb
