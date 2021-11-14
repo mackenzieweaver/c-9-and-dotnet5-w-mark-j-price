@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <UserSecretsId>aspnet-NorthwindMvc-7874904A-BE9B-4B66-946D-71DF6D8D624A</UserSecretsId>
   </PropertyGroup>
 
