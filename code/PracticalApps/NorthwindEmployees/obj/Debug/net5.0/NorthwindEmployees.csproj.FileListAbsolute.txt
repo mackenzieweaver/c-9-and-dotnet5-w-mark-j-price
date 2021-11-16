@@ -8,7 +8,6 @@ C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\No
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\bin\Debug\net5.0\NorthwindEntitiesLib.dll
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\bin\Debug\net5.0\NorthwindContextLib.pdb
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
-C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\obj\Debug\net5.0\NorthwindEmployees.csprojAssemblyReference.cache
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\obj\Debug\net5.0\NorthwindEmployees.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\obj\Debug\net5.0\NorthwindEmployees.AssemblyInfoInputs.cache
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindEmployees\obj\Debug\net5.0\NorthwindEmployees.AssemblyInfo.cs
@@ -31,3 +30,4 @@ C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\No
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\northwindemployees\obj\Debug\net5.0\Razor\Areas\PacktFeatures\Pages\employees.cshtml.g.cs
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\northwindemployees\obj\Debug\net5.0\Razor\Areas\PacktFeatures\Pages\Shared\_Employee.cshtml.g.cs
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\northwindemployees\obj\Debug\net5.0\Razor\Areas\PacktFeatures\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\northwindemployees\obj\Debug\net5.0\NorthwindEmployees.csproj.AssemblyReference.cache
