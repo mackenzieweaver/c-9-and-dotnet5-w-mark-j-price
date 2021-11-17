@@ -88,3 +88,11 @@ C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\No
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\bin\Debug\net5.0\NorthwindEntitiesLib.dll
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\bin\Debug\net5.0\NorthwindContextLib.pdb
 C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\CreateCustomer.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\CustomerDetail.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteCustomer.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\EditCustomer.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\Razor\Pages\CreateCustomer.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\Razor\Pages\CustomerDetail.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\Razor\Pages\DeleteCustomer.razor.g.cs
+C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\obj\Debug\net5.0\Razor\Pages\EditCustomer.razor.g.cs

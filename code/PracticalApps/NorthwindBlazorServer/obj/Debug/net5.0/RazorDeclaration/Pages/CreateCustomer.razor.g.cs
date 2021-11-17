@@ -103,8 +103,8 @@ using Packt.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/customers")]
-    public partial class Customers : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/createcustomer")]
+    public partial class CreateCustomer : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -112,18 +112,19 @@ using Packt.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 54 "C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\Pages\Customers.razor"
+#line 8 "C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\Pages\CreateCustomer.razor"
        
-    private IEnumerable<Customer> customers;
-
-    protected override async Task OnInitializedAsync()
+    private Customer customer = new Customer();
+    private async Task Create()
     {
-        customers = await service.GetCustomersAsync();
+        await service.CreateCustomerAsync(customer);
+        navigation.NavigateTo("customers");
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager navigation { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private INorthwindService service { get; set; }
     }
 }

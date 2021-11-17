@@ -103,8 +103,7 @@ using Packt.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/customers")]
-    public partial class Customers : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class CustomerDetail : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -112,19 +111,23 @@ using Packt.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 54 "C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\Pages\Customers.razor"
+#line 44 "C:\Users\mackn\Documents\C#\c#9-and-dotnet5-w-mark-j-price\code\PracticalApps\NorthwindBlazorServer\Pages\CustomerDetail.razor"
        
-    private IEnumerable<Customer> customers;
+    [Parameter]
+    public Customer Customer { get; set; }
 
-    protected override async Task OnInitializedAsync()
-    {
-        customers = await service.GetCustomersAsync();
-    }
+    [Parameter]
+    public string ButtonText { get; set; } = "Save Changes";
+
+    [Parameter]
+    public string ButtonStyle { get; set; } = "info";
+
+    [Parameter]
+    public EventCallback OnValidSubmit { get; set; }
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private INorthwindService service { get; set; }
     }
 }
 #pragma warning restore 1591
